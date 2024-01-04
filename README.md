@@ -30,3 +30,15 @@ To recompile the entire project, run the command `make re`.
 
 ## Used Tests
 - Francinette: https://github.com/xicodomingues/francinette
+
+### Disclaimer
+
+Maybe you could notice a different coding style. At 42 we need to follow some rules according to the coding standard of the school such as:
+```
+- No for, do while, switch, case or goto 
+- No functions with more than 25 lines 
+- No more than 5 functions per each file
+- No more than 5 variables in the same function
+- No assigns and declarations assigns in the same line
+```
+Click here to read the norm file of 42 school.
